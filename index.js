@@ -15,4 +15,9 @@ i++;
 }
 
 
-
+function iLoveTheBeatles(number){
+  var v_1=[];
+  do (v_1.push"I love the Beatles!";number++;){
+    while(number<15);
+  }return v_1
+}
